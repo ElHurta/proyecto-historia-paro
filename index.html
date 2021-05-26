@@ -6,69 +6,84 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Boceto Paro</title>
     <link rel="stylesheet" href="style/main.css">
+    <link rel="stylesheet" href="style/sidebar.css">
     <link
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
     />
 </head>
 <body>
-    <div class="container">
-        <section class="landing">
-            <img src="assets/Imagen 1.png" alt="a" width="33%">
-            <img src="assets/Imagen 2.png" alt="a" width="33%">
-            <img src="assets/Imagen 3.png" alt="a" width="34%">
+<input type="checkbox" class="checkbox" id="check">
+<label class="menu" for="check">|||</label>
+<aside class="sidebar">
+    <nav class="nav">
+        <ul>
+            <li class="active"><a href="#">Welcome</a></li>
+            <li><a href="#">Who We Are</a></li>
+            <li><a href="#">What We Do</a></li>
+            <li><a href="#">Get In Touch</a></li>
+        </ul>
+    </nav>
+</aside>
 
-            <div class="landing-text">
-                <h2>Historia Del Paro En Colombia - Una mirada al Ciclo</h2>
-                <h3>Jóvenes, Juventudes y Estudiantes en la Historia Colombiana </h3>
-                <a href="#topics" class="call-action">
-                    <div class="mouse">
-                        <span></span>
-                    </div>
-                </a>
-            </div>
-            <div class="UDLogo">
-                <img src="assets/UDLogo.png" alt="Universidad Distrital"/>
-            </div>
-        </section>
+<div class="container">
+    <section class="landing">
+        <img src="assets/Imagen 1.png" alt="a" width="33%">
+        <img src="assets/Imagen 2.png" alt="a" width="33%">
+        <img src="assets/Imagen 3.png" alt="a" width="34%">
 
-        <section class="topics" id="topics">
-            <h3>Indice</h3>
+        <div class="landing-text">
+            <h2>Historia Del Paro En Colombia - Una mirada al Ciclo</h2>
+            <h3>Jóvenes, Juventudes y Estudiantes en la Historia Colombiana </h3>
+            <a href="#topics" class="call-action">
+                <div class="mouse">
+                    <span></span>
+                </div>
+            </a>
+        </div>
+        <div class="UDLogo">
+            <img src="assets/UDLogo.png" alt="Universidad Distrital"/>
+        </div>
+    </section>
 
-            <div class="topics-list">
-                <ul class="left-topics">
-                    <li><a href="#first-acon">1900 - Acontecimiento</a></li>
-                    <li><a href="#second-acon">1900 - Acontecimiento</a></li>
-                    <li><a href="#">1900 - Acontecimiento</a></li>
-                    <li><a href="#">1900 - Acontecimiento</a></li>
-                    <li><a href="#">1900 - Acontecimiento</a></li>
-                    <li><a href="#">1900 - Acontecimiento</a></li>
-                </ul>
+    <section class="topics" id="topics">
+        <h3>Indice</h3>
 
-                <ul class="right-topics">
-                    <li><a href="#">1900 - Acontecimiento</a></li>
-                    <li><a href="#">1900 - Acontecimiento</a></li>
-                    <li><a href="#">1900 - Acontecimiento</a></li>
-                    <li><a href="#">1900 - Acontecimiento</a></li>
-                    <li><a href="#">1900 - Acontecimiento</a></li>
-                    <li><a href="#">1900 - Acontecimiento</a></li>
-                </ul>
-            </div>
+        <div class="topics-list">
+            <ul class="left-topics">
+                <li><a href="#first-acon">1900 - Acontecimiento</a></li>
+                <li><a href="#second-acon">1900 - Acontecimiento</a></li>
+                <li><a href="#">1900 - Acontecimiento</a></li>
+                <li><a href="#">1900 - Acontecimiento</a></li>
+                <li><a href="#">1900 - Acontecimiento</a></li>
+                <li><a href="#">1900 - Acontecimiento</a></li>
+            </ul>
 
-        </section>
-        
-        <div class="first-acon" id="first-acon">
-            <div class="img-container">
-                
-            </div>
-            <div class="desc"></div>
+            <ul class="right-topics">
+                <li><a href="#">1900 - Acontecimiento</a></li>
+                <li><a href="#">1900 - Acontecimiento</a></li>
+                <li><a href="#">1900 - Acontecimiento</a></li>
+                <li><a href="#">1900 - Acontecimiento</a></li>
+                <li><a href="#">1900 - Acontecimiento</a></li>
+                <li><a href="#">1900 - Acontecimiento</a></li>
+            </ul>
         </div>
 
-        <div class="second-acon" id="second-acon">
-            <div class="img-container"></div>
-            <div class="desc"></div>
+    </section>
+
+    <div class="first-acon" id="first-acon">
+        <div class="img-container">
+
         </div>
+        <div class="desc"></div>
     </div>
-    <script src="scripts/animated.js"></script>
+
+    <div class="second-acon" id="second-acon">
+        <div class="img-container"></div>
+        <div class="desc"></div>
+    </div>
+</div>
+<script src="scripts/animated.js"></script>
+<script src="scripts/navbar.js"></script>
 </body>
 </html>
