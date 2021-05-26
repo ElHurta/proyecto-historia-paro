@@ -1,15 +1,15 @@
 let visible= false
-const iframe = document.querySelector("iframe")
+const sidebar = document.querySelector(".div-sidebar")
 
 window.addEventListener("scroll", () => {
     const scroll = window.scrollY/window.innerHeight
     if(scroll >= 2 && visible == false){
         visible = true
-        iframe.classList.remove("inv")
+        sidebar.classList.remove("inv")
     }
     else if(visible == true && scroll<2){
         visible = false
-        iframe.classList.add("inv")
+        sidebar.classList.add("inv")
         }
 
 })
