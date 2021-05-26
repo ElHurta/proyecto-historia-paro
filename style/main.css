@@ -143,6 +143,10 @@ html {
   }
 }
 
+.invisible{
+  visibility: hidden;
+}
+
 @keyframes des-wheel {
   0% {
     opacity: 0;
