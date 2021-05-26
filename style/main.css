@@ -34,12 +34,12 @@ html {
 }
 
 .landing-text h2 {
-  font-size: 63px;
+  font-size: 4vw;
   margin: 0;
 }
 
 .landing-text h3 {
-  font-size: 45px;
+  font-size: 3vw;
   margin: 0;
 }
 
@@ -130,6 +130,18 @@ html {
   display: flex;
 }
 
+.UDLogo{
+  position: absolute;
+}
+
+.UDLogo img{
+  width: 24vw;
+}
+
+.invisible{
+  visibility: hidden;
+}
+
 @-webkit-keyframes des-wheel {
   0% {
     opacity: 0;
@@ -143,10 +155,6 @@ html {
   }
 }
 
-.invisible{
-  visibility: hidden;
-}
-
 @keyframes des-wheel {
   0% {
     opacity: 0;
@@ -157,6 +165,18 @@ html {
     opacity: 1;
     -webkit-transform: translateY(1rem);
             transform: translateY(1rem);
+  }
+}
+
+@media only screen and (max-width: 620px) {
+  .landing-text h2{
+    font-size: 1.5em;
+  }
+  .landing-text h3{
+    font-size: 1em;
+  }
+  .UDLogo img{
+    width: 220px;
   }
 }
 /*# sourceMappingURL=main.css.map */

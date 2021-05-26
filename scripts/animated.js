@@ -1,6 +1,8 @@
 
-const animacion_izquierda = "slideInLeft"
-const animacion_derecha = "slideInRight"
+const animacion_topics_izquierda = "slideInLeft"
+const animacion_topics_derecha = "slideInRight"
+
+
 
 //---------------------- CODIGO PARA QUE FUNCIONE -------------------------//
 
@@ -30,8 +32,8 @@ function callback(entrys) {
         setTimeout(()=>{
             topicsLeft.classList.remove("invisible")
             topicsRight.classList.remove("invisible")
-            animateCSS(topicsLeft, animacion_izquierda)
-            animateCSS(topicsRight, animacion_derecha)
+            animateCSS(topicsLeft, animacion_topics_izquierda)
+            animateCSS(topicsRight,animacion_topics_derecha)
         },100)
     }else{
         topicsLeft.classList.add("invisible")
