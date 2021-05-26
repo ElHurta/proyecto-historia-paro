@@ -115,7 +115,7 @@ html {
 .first-acon {
     width: 100%;
     height: 100vh;
-    background-image: url("../assets/Textura1.png");
+    background-image: url("../assets/images/Textura1.png");
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -124,7 +124,7 @@ html {
 .second-acon {
     width: 100%;
     height: 100vh;
-    background-image: url("../assets/Textura2.png");
+    background-image: url("../assets/images/Textura2.png");
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
