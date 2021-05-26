@@ -1,17 +1,15 @@
 let visible= false
-const check = document.querySelector(".checkbox")
-const button = document.querySelector(".menu")
+const iframe = document.querySelector("iframe")
 
 window.addEventListener("scroll", () => {
     const scroll = window.scrollY/window.innerHeight
     if(scroll >= 2 && visible == false){
         visible = true
-        button.classList.remove("checkbox")
+        iframe.classList.remove("inv")
     }
     else if(visible == true && scroll<2){
         visible = false
-        button.classList.add("checkbox")
-        check.checked = false
-    }
+        iframe.classList.add("inv")
+        }
 
 })
