@@ -19,7 +19,7 @@ const crearObserver = () =>{
                     topicsRight.classList.remove("invisible")
                     animateCSS(topicsLeft, animacion_topics_izquierda)
                     animateCSS(topicsRight,animacion_topics_derecha)
-                },100)
+                },300)
             }else{
                 topicsLeft.classList.add("invisible")
                 topicsRight.classList.add("invisible")
