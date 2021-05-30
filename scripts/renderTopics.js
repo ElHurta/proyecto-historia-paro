@@ -14,11 +14,11 @@ function generarCodigoTopic(ahno, acon) {
     `
 }
 
-function generarCodigoSecc(anho, acon, resum, imageUrl) {
+function generarCodigoSecc(anho, acon, resum, imageUrl, index) {
     return `
     <div class="acon" id="${anho}" style="background-image: url('../assets/images/Textura1.png');">
         <div class="img-container">
-          <img src="${imageUrl}" alt="Universidad Distrital" width="90%" height="90%"/>
+          <img class= "img${index}" src="${imageUrl}" alt="Universidad Distrital" width="90%" height="90%"/>
         </div>
         <div class="desc">
             <h3>
@@ -44,7 +44,7 @@ function renderTopics(data) {
             right_codigo += generarCodigoTopic(anho, acon)
         }
 
-        sec_code += generarCodigoSecc(anho, acon, topics[i].resumen, topics[i].imageUrl)
+        sec_code += generarCodigoSecc(anho, acon, topics[i].resumen, topics[i].imageUrl, i)
     }
     //console.log(topics_left)
     //console.log(left_codigo)

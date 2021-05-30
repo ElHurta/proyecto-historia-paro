@@ -135,6 +135,14 @@ html {
 .img-container {
   margin: auto 0;
   width: 40%;
+  margin-right: 2.5em;
+}
+
+.img-container .img2 {
+  -webkit-transform: rotate(-21deg);
+          transform: rotate(-21deg);
+  -webkit-box-shadow: 3px 6px 14px 0px rgba(0, 0, 0, 0.85);
+  box-shadow: 3px 6px 14px 0px rgba(0, 0, 0, 0.85);
 }
 
 @keyframes des-wheel {
