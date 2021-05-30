@@ -16,7 +16,7 @@ function generarCodigoTopic(ahno, acon) {
 
 function generarCodigoSecc(anho, acon, resum, imageUrl, index) {
     return `
-    <div class="acon" id="${anho}" style="background-image: url('../assets/images/Textura1.png');">
+    <div class="acon" id="${anho}" style="background-image: url('assets/images/Textura1.png');">
         <div class="img-container">
           <img class= "img${index}" src="${imageUrl}" alt="Universidad Distrital" width="90%" height="90%"/>
         </div>
