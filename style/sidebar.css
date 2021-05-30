@@ -12,6 +12,7 @@
   -webkit-transition: left 0.7s;
   transition: left 0.7s;
   overflow-y: scroll;
+  z-index: 2;
 }
 
 .sidebar::-webkit-scrollbar {
@@ -108,6 +109,7 @@
   text-align: center;
   -webkit-transition: left 0.7s;
   transition: left 0.7s;
+  z-index: 2;
 }
 
 .checkbox {

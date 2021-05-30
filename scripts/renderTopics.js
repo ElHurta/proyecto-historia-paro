@@ -25,7 +25,7 @@ function generarCodigoSecc(anho, acon, resum, imageUrl, index) {
                 ${acon} - ${anho}
             </h3>
             <p>
-                ${resum}
+                ${resum} <a href="#">Ver Más</a>
             </p>
         </div>
       </div>

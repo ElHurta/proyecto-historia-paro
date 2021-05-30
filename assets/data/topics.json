@@ -4,6 +4,7 @@
       "anho": "1851",
       "acontecimiento": "Reformas Liberales",
       "resumen": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "desc": "",
       "imageUrl": "",
       "textureUrl": ""
     },
@@ -11,6 +12,7 @@
       "anho": "1870",
       "acontecimiento": "Guerra De Las Escuelas",
       "resumen": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "desc": "",
       "imageUrl": "",
       "textureUrl": ""
     },
@@ -18,6 +20,7 @@
       "anho": "1875",
       "acontecimiento": "Motín Del Pan",
       "resumen": "Debido al alza de los precios del trigo en un 20%, los panaderos se vieron en la necesidad de protestar, negándose a vender pan de ¼ y a dar vendaje con la compra del alimento. El 23 de enero se reunieron en la Plaza de Bolívar, alrededor de 1.500 personas, proporción numerosa si se considera que en Bogotá vivían alrededor de 50.000 personas en esa época.",
+      "desc": "",
       "imageUrl": "assets/images/motinPan.gif",
       "textureUrl": ""
     },
@@ -25,27 +28,31 @@
       "anho": "1893",
       "acontecimiento": "Motín De Los Artesanos",
       "resumen": "En 1892 José Ignacio Gutiérrez redactó 5 artículos para el periódico Colombia Cristiana, bajo el título de “Mendicidad” en los cuales describía peyorativamente a la clase menos favorecida de Bogotá (la mayoría artesanos), lo que incitó una serie de manifestaciones en contra de estas publicaciones. Lo que empujó a las autoridades a usar la fuerza policial de manera desmedida, desembocando en una gran cantidad de muertes tanto de las fuerzas militares como de los artesanos",
+      "desc": "",
       "imageUrl": "assets/images/colombiaCristiana.jpeg",
       "textureUrl": ""
     },
     {
       "anho": "1910-1924",
       "acontecimiento": "Congreso De Estudiantes",
-      "resumen": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
-      "imageUrl": "",
+      "resumen": "Entre 1910 y 1924 se llevaron a cabo dos congresos estudiantiles en Colombia. Estas reuniones se dieron en un contexto social donde varios países de Latinoamérica se vieron aquejados por problemas políticos muy similares, permitiendo que se gestaran organizaciones estudiantiles conscientes de estos sucesos en toda la región. Estos permitirían la creación del Manifiesto de Córdoba, producto de un movimiento de nombre homónimo proveniente de Argentina lo que daría pie a la Autonomía Universitaria.",
+      "desc": "",
+      "imageUrl": "https://unperiodico.unal.edu.co/fileadmin/_processed_/2/4/csm_13_JUNIO_2018-FOTO_1-AUTONOMIA_UNIVERSITARIA-Reforma_universitaria_f37e706865.jpg",
       "textureUrl": ""
     },
     {
       "anho": "1920-1930",
       "acontecimiento": "Los Leopardos",
-      "resumen": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
-      "imageUrl": "",
+      "resumen": "Los Leopardos fue un grupo de intelectuales políticos colombianos que se caracterizaron por generar una clara división entre los conservadores de la época comprendida entre 1920 – 1930. Esta asociación estaba comprendida por 5 jóvenes que criticaron fuertemente la dirección tomada por el partido conservador, atacando principalmente la idea de que quiénes controlaban dicha organización eran personas de avanzada edad.",
+      "desc": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Los_Leopardos_Colombia.jpg",
       "textureUrl": ""
     },
     {
       "anho": "1929",
       "acontecimiento": "Masacre De Las Bananeras",
       "resumen": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "desc": "",
       "imageUrl": "",
       "textureUrl": ""
     },
@@ -53,6 +60,7 @@
       "anho": "1938",
       "acontecimiento": "Primera Huelga Estudiantil",
       "resumen": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "desc": "",
       "imageUrl": "",
       "textureUrl": ""
     }

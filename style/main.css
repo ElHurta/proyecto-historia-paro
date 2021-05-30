@@ -127,9 +127,14 @@ html {
 
 .desc {
   font-family: "DM Sans";
-  font-size: 2.5em;
+  font-weight: 450;
+  font-size: 2.3em;
   width: 40%;
   margin: auto 0;
+}
+
+.desc h3 {
+  font-weight: 600;
 }
 
 .img-container {
@@ -139,6 +144,7 @@ html {
 }
 
 .img-container .img2 {
+  z-index: -2;
   -webkit-transform: rotate(-21deg);
           transform: rotate(-21deg);
   -webkit-box-shadow: 3px 6px 14px 0px rgba(0, 0, 0, 0.85);
