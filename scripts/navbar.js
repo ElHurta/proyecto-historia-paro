@@ -11,5 +11,4 @@ window.addEventListener("scroll", () => {
         visible = false
         sidebar.classList.add("inv")
         }
-
 })

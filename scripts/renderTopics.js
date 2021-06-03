@@ -80,6 +80,7 @@ function renderTopics(data) {
 }
 
 function renderSidebar(data) {
+    codigo = `<li><a href="#topics">Volver Al Indice</a></li>`;
     for (topic of data.topics) {
         const anho = topic.anho
         const acon = topic.acontecimiento
