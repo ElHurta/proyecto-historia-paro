@@ -3,9 +3,10 @@
     {
       "anho": "1851",
       "acontecimiento": "Reformas Liberales",
-      "resumen": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "resumen": "Con la llegada de José Hilario López al poder de la Nueva Granada en 1849 y el inicio de la hegemonía liberal que vería su final hasta 1878; surgieron múltiples reformas al país que verían perjudicados los intereses de ciertos sectores sociales de la época, principalmente de los conservadores. Estas reformas eventualmente desembocarán en las guerras civiles de 1851 y 1854, entre los partidos liberal y conservador.",
       "desc": "",
-      "imageUrl": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/General_Jos%C3%A9_Hilario_L%C3%B3pez.jpg",
+      "tituloImg": "De Gaspard-Félix Tournachon - Musée d&#039;Orsay, Dominio público, https://commons.wikimedia.org/w/index.php?curid=17892035",
       "textureUrl": ""
     },
     {
@@ -14,6 +15,7 @@
       "resumen": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
       "desc": "",
       "imageUrl": "",
+      "tituloImg": "",
       "textureUrl": ""
     },
     {
@@ -22,6 +24,7 @@
       "resumen": "Debido al alza de los precios del trigo en un 20%, los panaderos se vieron en la necesidad de protestar, negándose a vender pan de ¼ y a dar vendaje con la compra del alimento. El 23 de enero se reunieron en la Plaza de Bolívar, alrededor de 1.500 personas, proporción numerosa si se considera que en Bogotá vivían alrededor de 50.000 personas en esa época.",
       "desc": "",
       "imageUrl": "assets/images/motinPan.gif",
+      "tituloImg": "",
       "textureUrl": ""
     },
     {
@@ -30,6 +33,7 @@
       "resumen": "En 1892 José Ignacio Gutiérrez redactó 5 artículos para el periódico Colombia Cristiana, bajo el título de “Mendicidad” en los cuales describía peyorativamente a la clase menos favorecida de Bogotá (la mayoría artesanos), lo que incitó una serie de manifestaciones en contra de estas publicaciones. Lo que empujó a las autoridades a usar la fuerza policial de manera desmedida, desembocando en una gran cantidad de muertes tanto de las fuerzas militares como de los artesanos",
       "desc": "",
       "imageUrl": "assets/images/colombiaCristiana.jpeg",
+      "tituloImg": "",
       "textureUrl": ""
     },
     {
@@ -38,6 +42,7 @@
       "resumen": "Entre 1910 y 1924 se llevaron a cabo dos congresos estudiantiles en Colombia. Estas reuniones se dieron en un contexto social donde varios países de Latinoamérica se vieron aquejados por problemas políticos muy similares, permitiendo que se gestaran organizaciones estudiantiles conscientes de estos sucesos en toda la región. Estos permitirían la creación del Manifiesto de Córdoba, producto de un movimiento de nombre homónimo proveniente de Argentina lo que daría pie a la Autonomía Universitaria.",
       "desc": "",
       "imageUrl": "https://unperiodico.unal.edu.co/fileadmin/_processed_/2/4/csm_13_JUNIO_2018-FOTO_1-AUTONOMIA_UNIVERSITARIA-Reforma_universitaria_f37e706865.jpg",
+      "tituloImg": "",
       "textureUrl": ""
     },
     {
@@ -46,6 +51,7 @@
       "resumen": "Los Leopardos fue un grupo de intelectuales políticos colombianos que se caracterizaron por generar una clara división entre los conservadores de la época comprendida entre 1920 – 1930. Esta asociación estaba comprendida por 5 jóvenes que criticaron fuertemente la dirección tomada por el partido conservador, atacando principalmente la idea de que quiénes controlaban dicha organización eran personas de avanzada edad.",
       "desc": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Los_Leopardos_Colombia.jpg",
+      "tituloImg": "",
       "textureUrl": ""
     },
     {
@@ -54,6 +60,7 @@
       "resumen": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
       "desc": "",
       "imageUrl": "",
+      "tituloImg": "",
       "textureUrl": ""
     },
     {
@@ -62,6 +69,7 @@
       "resumen": "En 1938 estalla el primer paro estudiantil a nivel nacional, el cual a nivel general era motivado por dos objetivos comunes, la derogación del curso preparatorio para ingreso a la universidad (El cual era obligatorio) y el examen de revisión, siendo así en diversas zonas del país se vivieron jornadas de manifestación y por primera vez se ve el ESMAD y el uso de gases lacrimógenos como arma de disipación de concentraciones.",
       "desc": "",
       "imageUrl": "",
+      "tituloImg": "",
       "textureUrl": ""
     }
   ]

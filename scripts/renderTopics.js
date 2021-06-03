@@ -21,7 +21,7 @@ function generarNewCards(anho, acon, resum, imageUrl, index){
     <a href="#${anho}">
     <div class="topic-card">
     <div class="img-container">
-        <img src="${imageUrl}" alt="a" width="60%" />
+        <img src="${imageUrl}" alt="a"/>
     </div>
       <h2>${acon}</h2>
       <div>
@@ -35,11 +35,12 @@ function generarNewCards(anho, acon, resum, imageUrl, index){
   </div>`
 }
 
-function generarCodigoSecc(anho, acon, resum, imageUrl, index) {
+function generarCodigoSecc(anho, acon, resum, imageUrl, index, tituloImg) {
     return `
     <div class="acon" id="${anho}" style="background-image: url('assets/images/Textura1.png');">
         <div class="img-container">
           <img class= "img${index}" src="${imageUrl}" alt="Universidad Distrital" width="90%" height="90%"/>
+          <p>${tituloImg}</p>
         </div>
         <div class="desc">
             <h3>
@@ -66,9 +67,10 @@ function renderTopics(data) {
             right_codigo += generarCodigoTopic(anho, acon)
         }*/
 
-        sec_code += generarCodigoSecc(anho, acon, topics[i].resumen, topics[i].imageUrl, i)
+        sec_code += generarCodigoSecc(anho, acon, topics[i].resumen, topics[i].imageUrl, i, topics[i].tituloImg)
         cards_code += generarNewCards(anho, acon, topics[i].resumen, topics[i].imageUrl, i)
     }
+    
     //console.log(topics_left)
     //console.log(left_codigo)
     //topics_left.innerHTML = left_codigo
