@@ -1,7 +1,7 @@
 
 window.addEventListener('load', function() {
     const cards = document.querySelectorAll('.anim');
-    console.log(cards)
+    //console.log(cards)
 
     observer = new IntersectionObserver((entries)=>
     {
@@ -10,12 +10,12 @@ window.addEventListener('load', function() {
                 if(entry.intersectionRatio > 0)
                 {
                     entry.target.style.animation = `anim1 0.5s forwards ease-out`;
-                    console.log(entry.intersectionRatio)
+                    //console.log(entry.intersectionRatio)
                 }
                 else
                 {
                     entry.target.style.animation = 'none';
-                    console.log("Hola")
+                    //console.log("Hola")
                 }
             });
     });
