@@ -19,19 +19,21 @@ function generarCodigoTopic(ahno, acon) {
 function generarNewCards(anho, acon, resum, imageUrl, index){
     return `<div class="card-container">
     <a href="#${anho}">
-    <div class="topic-card anim">
-    <div class="img-container">
-        <img src="${imageUrl}" alt="a"/>
-    </div>
-      <h2>${acon}</h2>
-      <div>
-        <p>
-          ${resum}
-        </p>
-      </div>
-    </div>
-    </a>
-    <h3>${anho}</h3>
+    <div class="anim">
+        <div class="topic-card">
+            <div class="img-container">
+                <img src="${imageUrl}" alt="a"/>
+            </div>
+            <h2>${acon}</h2>
+            <div>
+                <p>
+                ${resum}
+                </p>
+            </div>
+            </div>
+            </a>
+            <h3>${anho}</h3>
+        </div>
   </div>`
 }
 
