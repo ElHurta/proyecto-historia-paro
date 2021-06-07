@@ -19,7 +19,7 @@ function generarCodigoTopic(ahno, acon) {
 function generarNewCards(anho, acon, resum, imageUrl, index){
     return `<div class="card-container">
     <a href="#${anho}">
-    <div class="topic-card">
+    <div class="topic-card anim">
     <div class="img-container">
         <img src="${imageUrl}" alt="a"/>
     </div>

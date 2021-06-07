@@ -155,6 +155,7 @@ html {
 }
 
 .new-topics .card-container .topic-card {
+  will-change: transform;
   -webkit-transition: -webkit-transform 0.4s;
   transition: -webkit-transform 0.4s;
   transition: transform 0.4s;
