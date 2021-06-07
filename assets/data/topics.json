@@ -10,7 +10,7 @@
       "textureUrl": ""
     },
     {
-      "anho": "1870",
+      "anho": "1876-1877",
       "acontecimiento": "Guerra De Las Escuelas",
       "resumen": "En respuesta a las reformas liberales que atacaron a la educación impuesta por la iglesia, el partido conservador no permitió que se llevará a cabo este cambio en el modelo educativo lo cual desembocó en otro conflicto entre estos dos partidos. Al final de este conflicto se mostró una predilección por las enseñanzas de la iglesia por encima del modelo laico por parte de la población colombiana.",
       "desc": "",
@@ -70,6 +70,15 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
+      "textureUrl": ""
+    },
+    {
+      "anho": "1954 – 1957",
+      "acontecimiento": "Movimiento Estudiantil y Caída de Rojas Pinilla",
+      "resumen": "Hacia finales del gobierno de Laureano Gómez e inicios del Gobierno de Rojas Pinilla, surge el Movimiento Estudiantil Colombiano, cuyas manifestaciones intentarán ser aplacadas mediante el uso excesivo de la fuerza militar, sin embargo, el problema se sale de control llevando a que en el año 1957 Rojas Pinilla abandone el gobierno.",
+      "desc": "",
+      "imageUrl": "https://pbs.twimg.com/media/D8juLfNXoAAOKaQ?format=jpg&name=900x900",
+      "tituloImg": "Tomado de: https://twitter.com/PrensaRural/status/1137420794047488001/photo/2",
       "textureUrl": ""
     }
   ]

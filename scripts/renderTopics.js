@@ -36,6 +36,25 @@ function generarNewCards(anho, acon, resum, imageUrl, index){
 }
 
 function generarCodigoSecc(anho, acon, resum, imageUrl, index, tituloImg) {
+    
+    if(index%2==0) {
+        return `
+        <div class="acon" id="${anho}" style="background-image: url('assets/images/Textura1.png');">
+            <div class="desc">
+                <h3>
+                    ${acon} - ${anho}
+                </h3>
+                <p>
+                    ${resum} <a href="#">Ver Más</a>
+                </p>
+            </div>
+            <div class="img-container">
+            <img class= "img${index}" src="${imageUrl}" alt="Universidad Distrital" width="90%" height="90%"/>
+            <p>${tituloImg}</p>
+            </div>
+        </div>
+        `
+    }
     return `
     <div class="acon" id="${anho}" style="background-image: url('assets/images/Textura1.png');">
         <div class="img-container">

@@ -131,8 +131,10 @@ html
 
     .topic-card
 
+      transition: transform 0.4s;
+
       &:hover
-        height: 700px;
+        transform: scale(1.1)
         
 
       -webkit-box-shadow: 9px 11px 15px -1px rgba(0,0,0,0.76); 
@@ -187,7 +189,7 @@ html
 .img-container
   margin: auto 0;
   width: 40%
-  margin-right: 2.5em;
+  margin-left: 2.8em;
   p
     margin: 0.3em 0em;
     font-size: 1em;
@@ -199,7 +201,7 @@ html
 
   .img2
     z-index: -2;
-    transform: rotate(-21deg)
+    transform: rotate(16deg)
     -webkit-box-shadow: 3px 6px 14px 0px rgba(0,0,0,0.85); 
     box-shadow: 3px 6px 14px 0px rgba(0,0,0,0.85);
 
@@ -211,6 +213,14 @@ html
   100%
     opacity: 1
     transform: translateY(1rem)
+
+@keyframes anim1
+  0%
+    transform: translateY(-50px)
+    opacity: 0;
+  100%
+    transform: translateY(0px)
+    opacity: 1;
         
 
 .UDLogo
