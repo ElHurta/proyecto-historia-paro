@@ -38,11 +38,11 @@ function generarNewCards(anho, acon, resum, imageUrl, index){
   </div>`
 }
 
-function generarCodigoSecc(anho, acon, resum, imageUrl, index, tituloImg) {
+function generarCodigoSecc(anho, acon, resum, imageUrl, index, tituloImg, textureUrl) {
     
     if(index%2==0) {
         return `
-        <div class="acon" id="${anho}" style="background-image: url('assets/images/Textura1.png');">
+        <div class="acon" id="${anho}" style="background-image: url('${textureUrl}');">
             <div class="desc">
                 <h3>
                     ${acon} - ${anho}
@@ -59,7 +59,7 @@ function generarCodigoSecc(anho, acon, resum, imageUrl, index, tituloImg) {
         `
     }
     return `
-    <div class="acon" id="${anho}" style="background-image: url('assets/images/Textura1.png');">
+    <div class="acon" id="${anho}" style="background-image: url('${textureUrl}');">
         <div class="img-container">
           <img class= "img${index}" src="${imageUrl}" alt="Universidad Distrital" width="90%" height="90%"/>
           <p>${tituloImg}</p>
@@ -89,7 +89,7 @@ function renderTopics(data) {
             right_codigo += generarCodigoTopic(anho, acon)
         }*/
 
-        sec_code += generarCodigoSecc(anho, acon, topics[i].resumen, topics[i].imageUrl, i, topics[i].tituloImg)
+        sec_code += generarCodigoSecc(anho, acon, topics[i].resumen, topics[i].imageUrl, i, topics[i].tituloImg, topics[i].textureUrl)
         cards_code += generarNewCards(anho, acon, topics[i].resumen, topics[i].imageUrl, i)
     }
     

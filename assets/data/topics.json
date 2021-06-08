@@ -7,7 +7,7 @@
       "desc": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/General_Jos%C3%A9_Hilario_L%C3%B3pez.jpg",
       "tituloImg": "De Gaspard-Félix Tournachon - Musée d&#039;Orsay, Dominio público, https://commons.wikimedia.org/w/index.php?curid=17892035",
-      "textureUrl": ""
+      "textureUrl": "assets/images/svgbg1.svg"
     },
     {
       "anho": "1876-1877",
@@ -16,7 +16,7 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": ""
+      "textureUrl": "assets/images/svgbg1.svg"
     },
     {
       "anho": "1875",
@@ -25,7 +25,7 @@
       "desc": "",
       "imageUrl": "assets/images/motinPan.gif",
       "tituloImg": "",
-      "textureUrl": ""
+      "textureUrl": "assets/images/Textura1.png"
     },
     {
       "anho": "1893",
@@ -34,7 +34,7 @@
       "desc": "",
       "imageUrl": "assets/images/colombiaCristiana.jpeg",
       "tituloImg": "",
-      "textureUrl": ""
+      "textureUrl": "assets/images/Textura1.png"
     },
     {
       "anho": "1910-1924",
@@ -43,7 +43,7 @@
       "desc": "",
       "imageUrl": "https://unperiodico.unal.edu.co/fileadmin/_processed_/2/4/csm_13_JUNIO_2018-FOTO_1-AUTONOMIA_UNIVERSITARIA-Reforma_universitaria_f37e706865.jpg",
       "tituloImg": "",
-      "textureUrl": ""
+      "textureUrl": "assets/images/Textura1.png"
     },
     {
       "anho": "1920-1930",
@@ -52,7 +52,7 @@
       "desc": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Los_Leopardos_Colombia.jpg",
       "tituloImg": "",
-      "textureUrl": ""
+      "textureUrl": "assets/images/Textura1.png"
     },
     {
       "anho": "1929",
@@ -61,7 +61,7 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": ""
+      "textureUrl": "assets/images/Textura1.png"
     },
     {
       "anho": "1938",
@@ -70,7 +70,7 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": ""
+      "textureUrl": "assets/images/Textura1.png"
     },
     {
       "anho": "1954 – 1957",
@@ -79,7 +79,7 @@
       "desc": "",
       "imageUrl": "https://pbs.twimg.com/media/D8juLfNXoAAOKaQ?format=jpg&name=900x900",
       "tituloImg": "Tomado de: https://twitter.com/PrensaRural/status/1137420794047488001/photo/2",
-      "textureUrl": ""
+      "textureUrl": "assets/images/Textura1.png"
     }
   ]
 }

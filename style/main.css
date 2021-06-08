@@ -139,7 +139,6 @@ html {
 .new-topics .card-container .topic-card:hover {
   -webkit-transform: scale(1.1);
           transform: scale(1.1);
-  z-index: 8;
 }
 
 .new-topics .card-container .topic-card .img-container {
