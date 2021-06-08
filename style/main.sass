@@ -56,42 +56,9 @@ html
     border-radius: 50%
     margin: auto
     animation: des-wheel 1.2s linear infinite
-
-.topics
-  width: 100%
-  height: 100vh
-
-  background: rgb(255, 249, 223)
-  background: -moz-linear-gradient(59deg, rgba(255, 249, 223, 1) 0%, rgba(248, 226, 191, 1) 100%)
-  background: -webkit-linear-gradient(59deg, rgba(255, 249, 223, 1) 0%, rgba(248, 226, 191, 1) 100%)
-  background: linear-gradient(59deg, rgba(255, 249, 223, 1) 0%, rgba(248, 226, 191, 1) 100%)
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fff9df", endColorstr="#f8e2bf", GradientType=1)
-
-  h3
-    margin: 0
-    padding-top: 1.2em
-    font-family: "Dosis"
-    color: #3E3E3E
-    font-size: 4.5vw;
-    font-weight: bold
-    text-align: center
-
-  .topics-list
-    padding: 0em 10VW;
-    font-family: Tahoma
-    display: flex
-    align-content: center
-    justify-content: space-around
-
-    ul
-      //list-style: none
-      li
-        padding: 1em 0em
-
-      a
-        color: #3E3E3E
-        text-decoration: none
-        font-size: 2vw;
+  
+.anim
+  perspective: 1000px;
       
 .new-topics
   
@@ -114,28 +81,31 @@ html
 
   .card-container
     flex: 0 0 auto
-
+    
     padding: 0em 0.8em;
     display: inline-block;
     width: 30%;
     text-align: center;
+
     h3
       color: #fff
       font-family: "DM Sans";
       font-size: 4vw;
       margin: 0.1em 0em 0.4em 0em;
+  
     
     a, a:visited
       text-decoration: none
       color: #000;
 
     .topic-card
-
       will-change: transform;
+      transform: rotateY(10deg)
       transition: transform 0.4s;
 
       &:hover
-        transform: scale(1.1)
+        transform: scale(1.1);
+        z-index: 8;
         
 
       -webkit-box-shadow: 9px 11px 15px -1px rgba(0,0,0,0.76); 
@@ -191,6 +161,7 @@ html
   margin: auto 0;
   width: 40%
   margin-left: 2.8em;
+
   p
     margin: 0.3em 0em;
     font-size: 1em;

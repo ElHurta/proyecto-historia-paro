@@ -31,9 +31,10 @@ function generarNewCards(anho, acon, resum, imageUrl, index){
                 </p>
             </div>
             </div>
-            </a>
+            
             <h3>${anho}</h3>
         </div>
+        </a>
   </div>`
 }
 
@@ -51,7 +52,7 @@ function generarCodigoSecc(anho, acon, resum, imageUrl, index, tituloImg) {
                 </p>
             </div>
             <div class="img-container">
-            <img class= "img${index}" src="${imageUrl}" alt="Universidad Distrital" width="90%" height="90%"/>
+            <img class= "img${index} imgRef" src="${imageUrl}" alt="Universidad Distrital" width="90%" height="90%"/>
             <p>${tituloImg}</p>
             </div>
         </div>

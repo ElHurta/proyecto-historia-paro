@@ -73,44 +73,9 @@ html {
           animation: des-wheel 1.2s linear infinite;
 }
 
-.topics {
-  width: 100%;
-  height: 100vh;
-  background: #fff9df;
-  background: linear-gradient(59deg, #fff9df 0%, #f8e2bf 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fff9df", endColorstr="#f8e2bf", GradientType=1);
-}
-
-.topics h3 {
-  margin: 0;
-  padding-top: 1.2em;
-  font-family: "Dosis";
-  color: #3E3E3E;
-  font-size: 4.5vw;
-  font-weight: bold;
-  text-align: center;
-}
-
-.topics .topics-list {
-  padding: 0em 10VW;
-  font-family: Tahoma;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-line-pack: center;
-      align-content: center;
-  -ms-flex-pack: distribute;
-      justify-content: space-around;
-}
-
-.topics .topics-list ul li {
-  padding: 1em 0em;
-}
-
-.topics .topics-list ul a {
-  color: #3E3E3E;
-  text-decoration: none;
-  font-size: 2vw;
+.anim {
+  -webkit-perspective: 1000px;
+          perspective: 1000px;
 }
 
 .new-topics {
@@ -156,6 +121,8 @@ html {
 
 .new-topics .card-container .topic-card {
   will-change: transform;
+  -webkit-transform: rotateY(10deg);
+          transform: rotateY(10deg);
   -webkit-transition: -webkit-transform 0.4s;
   transition: -webkit-transform 0.4s;
   transition: transform 0.4s;
@@ -172,6 +139,7 @@ html {
 .new-topics .card-container .topic-card:hover {
   -webkit-transform: scale(1.1);
           transform: scale(1.1);
+  z-index: 8;
 }
 
 .new-topics .card-container .topic-card .img-container {
