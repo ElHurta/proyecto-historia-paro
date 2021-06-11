@@ -25,11 +25,7 @@ function generarNewCards(anho, acon, resum, imageUrl, index){
                 <img src="${imageUrl}" alt="a"/>
             </div>
             <h2>${acon}</h2>
-            <div>
-                <p>
-                ${resum}
-                </p>
-            </div>
+            
             </div>
             
             <h3>${anho}</h3>

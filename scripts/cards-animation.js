@@ -9,7 +9,7 @@ window.addEventListener('load', function() {
             {
                 if(entry.intersectionRatio > 0)
                 {
-                    entry.target.style.animation = `anim1 0.5s forwards ease-out`;
+                    entry.target.style.animation = `anim1 1s forwards ease-out`;
                     //console.log(entry.intersectionRatio)
                 }
                 else

@@ -73,12 +73,48 @@
       "textureUrl": "assets/images/Textura1.png"
     },
     {
+      "anho": "1945",
+      "acontecimiento": "Manifestaciones Anticomunismo",
+      "resumen": "Cerca de la mitad del año 1945 se pudieron ver una serie de protestas anticomunismo, las cuales impulsadas por partidos conservadores y la defensa del catolicismo lograron marcar impacto en la estabilidad nacional, esto tuvo lugar debido a que por la época los malestares sociales encontraron su vocería en las juventudes, las cuales con los estamentos estudiantiles del gobierno de turno tuvieron mayor relevancia.",
+      "desc": "",
+      "imageUrl": "",
+      "tituloImg": "",
+      "textureUrl": "assets/images/Textura1.png"
+    },
+    {
       "anho": "1954 – 1957",
       "acontecimiento": "Movimiento Estudiantil y Caída de Rojas Pinilla",
       "resumen": "Hacia finales del gobierno de Laureano Gómez e inicios del Gobierno de Rojas Pinilla, surge el Movimiento Estudiantil Colombiano, cuyas manifestaciones intentarán ser aplacadas mediante el uso excesivo de la fuerza militar, sin embargo, el problema se sale de control llevando a que en el año 1957 Rojas Pinilla abandone el gobierno.",
       "desc": "",
       "imageUrl": "https://pbs.twimg.com/media/D8juLfNXoAAOKaQ?format=jpg&name=900x900",
       "tituloImg": "Tomado de: https://twitter.com/PrensaRural/status/1137420794047488001/photo/2",
+      "textureUrl": "assets/images/Textura1.png"
+    },
+    {
+      "anho": "1964",
+      "acontecimiento": "Marcha De La UIS",
+      "resumen": "La Marcha de la UIS, una marcha representativa para el movimiento estudiantil sobre el año 1964 fue muy trascendente ya que se constituyó como un referente en contra del autoritarismo, además mostró ser un grito de rebeldía del pueblo para las poblaciones donde dichas manifestaciones se presentó, una marcha que entró inmediatamente en la historia y eso debido a un gran recorrido, es especial por los jóvenes que no estaban acostumbrados a dicho.",
+      "desc": "",
+      "imageUrl": "",
+      "tituloImg": "",
+      "textureUrl": "assets/images/Textura1.png"
+    },
+    {
+      "anho": "1971",
+      "acontecimiento": "Movimiento Estudiantil",
+      "resumen": "El movimiento estudiantil de 1971, es considerado como la mayor movilización de estudiantes en la historia de Colombia buscaba una mayor participación estudiantil en el gobierno de la universidad, especialmente, participación en el consejo superior universitario, así como la eliminación de la injerencia de Estados Unidos sobre las políticas educativas. Sin embargo, estas pretensiones estaban bajo la influencia de muchos movimientos políticos y aunque tuvieron éxito en algunos resultados, algunos otros no llegaron a feliz término.",
+      "desc": "",
+      "imageUrl": "assets/images/9f297-moes71.jpg",
+      "tituloImg": "Tomado De: https://humanismoygoles.wordpress.com/2013/10/08/el-movimiento-estudiantil-universitario-en-colombia-1971-diferencias-ideologicas-en-el-seno-del-movimiento-objetivos-y-el-porque-del-fracaso/",
+      "textureUrl": "assets/images/Textura1.png"
+    },
+    {
+      "anho": "1990",
+      "acontecimiento": "La Séptima Papeleta",
+      "resumen": "En el año 1989 el país estaba pasando por una serie de sucesos decisivos para su historia, en donde resaltaba el proceso de paz con el M-19 y sobre todo el narcotráfico y terrorismo traído por los carteles de Cali y Medellín, esto llevó a una serie de propuestas y organizaciones para proponer una serie de cambios a la constitución de 1886, sin embargo en este mismo año Carlos Pizarro, Luis Carlos Galán y Bernardo Jaramillo fueron asesinados por manos del narcotráfico y paramilitarismo, dando paso al auge del terrorismo por parte de los carteles del narcotráfico.",
+      "desc": "",
+      "imageUrl": "",
+      "tituloImg": "",
       "textureUrl": "assets/images/Textura1.png"
     }
   ]
