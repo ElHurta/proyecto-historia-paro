@@ -48,7 +48,7 @@ function generarCodigoSecc(anho, acon, resum, imageUrl, index, tituloImg, textur
                 </p>
             </div>
             <div class="img-container">
-            <img class= "img${index} imgRef" src="${imageUrl}" alt="Universidad Distrital" width="90%" height="90%"/>
+            <img class= "img${index} imgRef" src="${imageUrl}" alt="Universidad Distrital" width="70%" height="70%"/>
             <p style="color: ${color}">${tituloImg}</p>
             </div>
         </div>
@@ -57,7 +57,7 @@ function generarCodigoSecc(anho, acon, resum, imageUrl, index, tituloImg, textur
     return `
     <div class="acon" id="${anho}" style="background-image: url('${textureUrl}');">
         <div class="img-container">
-          <img class= "img${index}" src="${imageUrl}" alt="Universidad Distrital" width="90%" height="90%"/>
+          <img class= "img${index}" src="${imageUrl}" alt="Universidad Distrital" width="70%" height="70%"/>
           <p style="color: ${color}">${tituloImg}</p>
         </div>
         <div class="desc" style="color: ${color}">

@@ -3,6 +3,9 @@
 .sidebar {
   scrollbar-color: #4b0f04 #310f0f;
   scrollbar-width: thin;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
   position: fixed;
   width: 25%;
   height: 100vh;
