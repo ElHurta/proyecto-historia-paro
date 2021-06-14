@@ -7,7 +7,14 @@
       "desc": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/General_Jos%C3%A9_Hilario_L%C3%B3pez.jpg",
       "tituloImg": "De Gaspard-Félix Tournachon - Musée d&#039;Orsay, Dominio público, https://commons.wikimedia.org/w/index.php?curid=17892035",
-      "textureUrl": "assets/images/svgbg1.svg"
+      "textureUrl": "assets/images/svgbg1.svg",
+      "colorText": "#000",
+      "listReferen": [
+        {
+          "ref1": "Tal",
+          "ref2": "Carlos"
+        }
+      ]
     },
     {
       "anho": "1876-1877",
@@ -16,7 +23,8 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": "assets/images/svgbg1.svg"
+      "textureUrl": "assets/images/meteorRed.svg",
+      "colorText": "#fff"
     },
     {
       "anho": "1875",
@@ -25,16 +33,18 @@
       "desc": "",
       "imageUrl": "assets/images/motinPan.gif",
       "tituloImg": "",
-      "textureUrl": "assets/images/Textura1.png"
+      "textureUrl": "assets/images/wavesRed.svg",
+      "colorText": "#fff"
     },
     {
       "anho": "1893",
       "acontecimiento": "Motín De Los Artesanos",
       "resumen": "En 1892 José Ignacio Gutiérrez redactó 5 artículos para el periódico Colombia Cristiana, bajo el título de “Mendicidad” en los cuales describía peyorativamente a la clase menos favorecida de Bogotá (la mayoría artesanos), lo que incitó una serie de manifestaciones en contra de estas publicaciones. Lo que empujó a las autoridades a usar la fuerza policial de manera desmedida, desembocando en una gran cantidad de muertes tanto de las fuerzas militares como de los artesanos",
       "desc": "",
-      "imageUrl": "assets/images/colombiaCristiana.jpeg",
-      "tituloImg": "",
-      "textureUrl": "assets/images/Textura1.png"
+      "imageUrl": "https://loscomunescolectivoanarquista.files.wordpress.com/2016/05/insurrecion-01.jpg?w=620",
+      "tituloImg": "Tomado de: https://loscomunescolectivoanarquista.files.wordpress.com/2016/05/insurrecion-01.jpg?w=620",
+      "textureUrl": "assets/images/simpleShiny.svg",
+      "colorText": "#fff"
     },
     {
       "anho": "1910-1924",
@@ -43,7 +53,8 @@
       "desc": "",
       "imageUrl": "https://unperiodico.unal.edu.co/fileadmin/_processed_/2/4/csm_13_JUNIO_2018-FOTO_1-AUTONOMIA_UNIVERSITARIA-Reforma_universitaria_f37e706865.jpg",
       "tituloImg": "",
-      "textureUrl": "assets/images/Textura1.png"
+      "textureUrl": "assets/images/Textura1.png",
+      "colorText": "#fff"
     },
     {
       "anho": "1920-1930",
@@ -52,7 +63,8 @@
       "desc": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Los_Leopardos_Colombia.jpg",
       "tituloImg": "",
-      "textureUrl": "assets/images/Textura1.png"
+      "textureUrl": "assets/images/Textura1.png",
+      "colorText": "#fff"
     },
     {
       "anho": "1929",
@@ -61,7 +73,8 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": "assets/images/Textura1.png"
+      "textureUrl": "assets/images/Textura1.png",
+      "colorText": "#fff"
     },
     {
       "anho": "1938",
@@ -70,7 +83,8 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": "assets/images/Textura1.png"
+      "textureUrl": "assets/images/Textura1.png",
+      "colorText": "#fff"
     },
     {
       "anho": "1945",
@@ -79,7 +93,8 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": "assets/images/Textura1.png"
+      "textureUrl": "assets/images/Textura1.png",
+      "colorText": "#fff"
     },
     {
       "anho": "1954 – 1957",
@@ -88,7 +103,8 @@
       "desc": "",
       "imageUrl": "https://pbs.twimg.com/media/D8juLfNXoAAOKaQ?format=jpg&name=900x900",
       "tituloImg": "Tomado de: https://twitter.com/PrensaRural/status/1137420794047488001/photo/2",
-      "textureUrl": "assets/images/Textura1.png"
+      "textureUrl": "assets/images/Textura1.png",
+      "colorText": "#fff"
     },
     {
       "anho": "1964",
@@ -97,16 +113,18 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": "assets/images/Textura1.png"
+      "textureUrl": "assets/images/Textura1.png",
+      "colorText": "#fff"
     },
     {
       "anho": "1971",
       "acontecimiento": "Movimiento Estudiantil",
       "resumen": "El movimiento estudiantil de 1971, es considerado como la mayor movilización de estudiantes en la historia de Colombia buscaba una mayor participación estudiantil en el gobierno de la universidad, especialmente, participación en el consejo superior universitario, así como la eliminación de la injerencia de Estados Unidos sobre las políticas educativas. Sin embargo, estas pretensiones estaban bajo la influencia de muchos movimientos políticos y aunque tuvieron éxito en algunos resultados, algunos otros no llegaron a feliz término.",
       "desc": "",
-      "imageUrl": "assets/images/9f297-moes71.jpg",
-      "tituloImg": "Tomado De: https://humanismoygoles.wordpress.com/2013/10/08/el-movimiento-estudiantil-universitario-en-colombia-1971-diferencias-ideologicas-en-el-seno-del-movimiento-objetivos-y-el-porque-del-fracaso/",
-      "textureUrl": "assets/images/Textura1.png"
+      "imageUrl": "https://www.renovacionmagisterial.org/portada/sites/default/files/fotos/2015/06/07/03.jpg",
+      "tituloImg": "Tomado De: https://www.renovacionmagisterial.org/portada/sites/default/files/fotos/2015/06/07/03.jpg",
+      "textureUrl": "assets/images/meteorRed.svg",
+      "colorText": "#fff"
     },
     {
       "anho": "1990",
@@ -115,7 +133,8 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": "assets/images/Textura1.png"
+      "textureUrl": "assets/images/Textura1.png",
+      "colorText": "#fff"
     }
   ]
 }

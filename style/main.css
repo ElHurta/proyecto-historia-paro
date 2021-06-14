@@ -103,7 +103,7 @@ html {
           flex: 0 0 auto;
   padding: 0em 0.8em;
   display: inline-block;
-  width: 30%;
+  width: 450px;
   text-align: center;
 }
 
@@ -142,12 +142,12 @@ html {
 }
 
 .new-topics .card-container .topic-card .img-container {
-  height: 35%;
+  height: 60%;
   text-align: center;
 }
 
 .new-topics .card-container .topic-card .img-container img {
-  max-width: 80%;
+  max-width: 90%;
   max-height: 80%;
   -webkit-box-shadow: 9px 11px 15px -1px rgba(0, 0, 0, 0.76);
   box-shadow: 9px 11px 15px -1px rgba(0, 0, 0, 0.76);
@@ -156,6 +156,7 @@ html {
 .new-topics .card-container .topic-card h2 {
   font-family: "DM Sans";
   margin: 0.1em 0em 0.4em 0em;
+  font-size: 2em;
 }
 
 .new-topics .card-container .topic-card div {
@@ -172,6 +173,10 @@ html {
   font-weight: 500;
 }
 
+.new-topics .card-container .topic-card div p a:visited {
+  color: #0066ff;
+}
+
 .acon {
   width: 100%;
   height: 100vh;
@@ -182,14 +187,29 @@ html {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  background-size: cover;
 }
 
 .desc {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 35px;
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+  padding: 0em 1.5em;
+  color: #FFF;
   font-family: "DM Sans";
   font-weight: 450;
-  font-size: 2.3em;
+  font-size: 2em;
   width: 40%;
   margin: auto 0;
+  text-shadow: 2px 2px 4px rgba(38, 16, 10, 0.68);
+  -webkit-box-shadow: 5px 5px 12px 1px rgba(0, 0, 0, 0.56);
+  box-shadow: 5px 5px 12px 1px rgba(0, 0, 0, 0.56);
+}
+
+.desc a:visited {
+  color: #00c9fc;
 }
 
 .desc h3 {
@@ -205,7 +225,7 @@ html {
 .img-container p {
   margin: 0.3em 0em;
   font-size: 1em;
-  color: #333333;
+  font-family: "DM Sans";
 }
 
 .img-container img {

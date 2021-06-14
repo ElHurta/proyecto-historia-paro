@@ -84,7 +84,7 @@ html
     
     padding: 0em 0.8em;
     display: inline-block;
-    width: 30%;
+    width: 450px;
     text-align: center;
 
     h3
@@ -117,10 +117,10 @@ html
       margin: auto 0;
 
       .img-container
-        height: 35%;
+        height: 60%;
         text-align: center;
         img
-          max-width: 80%;
+          max-width: 90%;
           max-height: 80%;
           -webkit-box-shadow: 9px 11px 15px -1px rgba(0,0,0,0.76); 
           box-shadow: 9px 11px 15px -1px rgba(0,0,0,0.76);
@@ -128,6 +128,7 @@ html
       h2
         font-family: "DM Sans"
         margin: 0.1em 0em 0.4em 0em;
+        font-size: 2em;
 
       div
         width: 80%;
@@ -139,6 +140,9 @@ html
           font-family: 'Segoe UI';
           font-size: 1.2em;
           font-weight: 500;
+
+          a:visited
+            color: #0066ff;
   
 .acon
   width: 100%
@@ -146,13 +150,31 @@ html
   display: flex
   margin: auto 0;
   justify-content: center;
+  background-size: cover;
 
 .desc
+  //Glassmorfismo:
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-left: 1px solid rgba(255, 255, 255, 0.1);;
+  border-radius: 35px;
+  backdrop-filter: blur(5px);
+
+
+  padding: 0em 1.5em;
+
+  //Fuente:
+  color: #FFF;
   font-family: "DM Sans";
   font-weight: 450; 
-  font-size: 2.3em;
+  font-size: 2em;
   width: 40%;
   margin: auto 0;
+  text-shadow: 2px 2px 4px rgba(38,16,10,0.68);
+  -webkit-box-shadow: 5px 5px 12px 1px rgba(0,0,0,0.56); 
+  box-shadow: 5px 5px 12px 1px rgba(0,0,0,0.56);
+
+  a:visited
+    color: #00c9fc;
   h3
     font-weight: 600;
 
@@ -164,7 +186,7 @@ html
   p
     margin: 0.3em 0em;
     font-size: 1em;
-    color: #333333;
+    font-family: "DM Sans";
 
   img
     max-width: 80%;
