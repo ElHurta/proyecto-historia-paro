@@ -53,8 +53,8 @@
       "desc": "",
       "imageUrl": "https://unperiodico.unal.edu.co/fileadmin/_processed_/2/4/csm_13_JUNIO_2018-FOTO_1-AUTONOMIA_UNIVERSITARIA-Reforma_universitaria_f37e706865.jpg",
       "tituloImg": "",
-      "textureUrl": "assets/images/Textura1.png",
-      "colorText": "#fff"
+      "textureUrl": "assets/images/svgbg1.svg",
+      "colorText": "#000"
     },
     {
       "anho": "1920-1930",
@@ -63,8 +63,8 @@
       "desc": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Los_Leopardos_Colombia.jpg",
       "tituloImg": "",
-      "textureUrl": "assets/images/Textura1.png",
-      "colorText": "#fff"
+      "textureUrl": "assets/images/svgbg1.svg",
+      "colorText": "#000"
     },
     {
       "anho": "1929",
@@ -73,8 +73,8 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": "assets/images/Textura1.png",
-      "colorText": "#fff"
+      "textureUrl": "assets/images/svgbg1.svg",
+      "colorText": "#000"
     },
     {
       "anho": "1938",
@@ -83,8 +83,8 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": "assets/images/Textura1.png",
-      "colorText": "#fff"
+      "textureUrl": "assets/images/svgbg1.svg",
+      "colorText": "#000"
     },
     {
       "anho": "1945",
@@ -93,8 +93,8 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": "assets/images/Textura1.png",
-      "colorText": "#fff"
+      "textureUrl": "assets/images/svgbg1.svg",
+      "colorText": "#000"
     },
     {
       "anho": "1954 – 1957",
@@ -103,8 +103,8 @@
       "desc": "",
       "imageUrl": "https://pbs.twimg.com/media/D8juLfNXoAAOKaQ?format=jpg&name=900x900",
       "tituloImg": "Tomado de: https://twitter.com/PrensaRural/status/1137420794047488001/photo/2",
-      "textureUrl": "assets/images/Textura1.png",
-      "colorText": "#fff"
+      "textureUrl": "assets/images/svgbg1.svg",
+      "colorText": "#000"
     },
     {
       "anho": "1964",
@@ -113,8 +113,8 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": "assets/images/Textura1.png",
-      "colorText": "#fff"
+      "textureUrl": "assets/images/svgbg1.svg",
+      "colorText": "#000"
     },
     {
       "anho": "1971",
@@ -123,8 +123,8 @@
       "desc": "",
       "imageUrl": "https://www.renovacionmagisterial.org/portada/sites/default/files/fotos/2015/06/07/03.jpg",
       "tituloImg": "Tomado De: https://www.renovacionmagisterial.org/portada/sites/default/files/fotos/2015/06/07/03.jpg",
-      "textureUrl": "assets/images/meteorRed.svg",
-      "colorText": "#fff"
+      "textureUrl": "assets/images/svgbg1.svg",
+      "colorText": "#000"
     },
     {
       "anho": "1990",
@@ -133,8 +133,8 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": "assets/images/Textura1.png",
-      "colorText": "#fff"
+      "textureUrl": "assets/images/svgbg1.svg",
+      "colorText": "#000"
     }
   ]
 }
