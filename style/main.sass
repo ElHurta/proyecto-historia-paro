@@ -180,8 +180,8 @@ html
 
 .img-container
   margin: auto 0;
-  width: 40%
-  margin-left: 2.8em;
+  width: 40%;
+  text-align: center;
 
   p
     margin: 0.3em 0em;
@@ -189,8 +189,8 @@ html
     font-family: "DM Sans";
 
   img
-    max-width: 80%;
-    max-height: 80%;
+    max-width: 70%;
+    max-height: 70%;
 
   .img2
     z-index: -2;
@@ -198,7 +198,7 @@ html
     -webkit-box-shadow: 3px 6px 14px 0px rgba(0,0,0,0.85); 
     box-shadow: 3px 6px 14px 0px rgba(0,0,0,0.85);
 
-//Nos vamos a meter a animar de panas:
+// Nos vamos a meter a animar de panas:
 @keyframes des-wheel
   0%
     opacity: 0
@@ -207,6 +207,9 @@ html
     opacity: 1
     transform: translateY(1rem)
 
+  
+
+// Animación de caída de las cartas:
 @keyframes anim1
   0%
     transform: translateY(-50px)
@@ -214,7 +217,24 @@ html
   100%
     transform: translateY(0px)
     opacity: 1;
-        
+
+// Animación de las descripciones:
+@keyframes anim2-left
+  0%
+    transform: translateX(-50px)
+    opacity: 0;
+  100%
+    transform: translateY(0px)
+    opacity: 1;
+
+// Animación de las descripciones:
+@keyframes anim2-right
+  0%
+    transform: translateX(50px)
+    opacity: 0;
+  100%
+    transform: translateY(0px)
+    opacity: 1;
 
 .UDLogo
   position: absolute;
@@ -261,10 +281,8 @@ html
     
 
 @media only screen and (max-width: 900px)
-
     .topics h3
         font-size: 41px;
-    
 
 iframe
     position: fixed;

@@ -39,7 +39,7 @@ function generarCodigoSecc(anho, acon, resum, imageUrl, index, tituloImg, textur
     if(index%2==0) {
         return `
         <div class="acon" id="${anho}" style="background-image: url('${textureUrl}');">
-            <div class="desc" style="color: ${color}">
+            <div class="desc desc-left" style="color: ${color}">
                 <h3>
                     ${acon} - ${anho}
                 </h3>
@@ -48,7 +48,7 @@ function generarCodigoSecc(anho, acon, resum, imageUrl, index, tituloImg, textur
                 </p>
             </div>
             <div class="img-container">
-            <img class= "img${index} imgRef" src="${imageUrl}" alt="Universidad Distrital" width="70%" height="70%"/>
+            <img class= "img${index} imgRef" src="${imageUrl}" alt="Universidad Distrital" width="65%" height="65%"/>
             <p style="color: ${color}">${tituloImg}</p>
             </div>
         </div>
@@ -57,10 +57,10 @@ function generarCodigoSecc(anho, acon, resum, imageUrl, index, tituloImg, textur
     return `
     <div class="acon" id="${anho}" style="background-image: url('${textureUrl}');">
         <div class="img-container">
-          <img class= "img${index}" src="${imageUrl}" alt="Universidad Distrital" width="70%" height="70%"/>
+          <img class= "img${index}" src="${imageUrl}" alt="Universidad Distrital" width="65%" height="65%"/>
           <p style="color: ${color}">${tituloImg}</p>
         </div>
-        <div class="desc" style="color: ${color}">
+        <div class="desc desc-right" style="color: ${color}">
             <h3>
                 ${acon} - ${anho}
             </h3>
