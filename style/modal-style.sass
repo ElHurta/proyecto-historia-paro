@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+
+.text-container
+    column-count: 2;
+    column-gap: 20px;
+
+.modal
+    //Para esconder el modal:
+    display: none;
+
+    //Ajusta el elemento a una posición absoluta pero ajustada al padre del elemento:
+    position: fixed;
+
+    //Posición superior en 3D
+    z-index: 1;
+    left: 0;
+    top: 0;
+
+    //Ocupa todo el tamaño del contenedor (Body):
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+
+.modal-content
+    background-color: #f4f4ff;
+    margin: 20% auto;
+    width: 80%;
+    padding: 20px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.17);
+
+.closeModalBtn
+    color: #ccc;
+    float: right;
+    font-size: 30px;
+
+.closeModalBtn:hover, .closeModalBtn:focus
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;

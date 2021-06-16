@@ -79,6 +79,8 @@ html {
 }
 
 .new-topics {
+  cursor: -webkit-grab;
+  cursor: grab;
   padding: 0em 3em;
   height: 100vh;
   background: #121212;
@@ -95,6 +97,11 @@ html {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+}
+
+.new-topics:active {
+  cursor: -webkit-grabbing;
+  cursor: grabbing;
 }
 
 .new-topics .card-container {
