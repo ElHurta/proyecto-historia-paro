@@ -57,8 +57,8 @@
       "desc": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Los_Leopardos_Colombia.jpg",
       "tituloImg": "",
-      "textureUrl": "assets/images/svgbg1.svg",
-      "colorText": "#000"
+      "textureUrl": "assets/images/purple-scales.svg",
+      "colorText": "#fff"
     },
     {
       "anho": "1929",
@@ -67,8 +67,8 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": "assets/images/svgbg1.svg",
-      "colorText": "#000"
+      "textureUrl": "assets/images/dark-green-triangles.svg",
+      "colorText": "#fff"
     },
     {
       "anho": "1938",
@@ -77,8 +77,8 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": "assets/images/svgbg1.svg",
-      "colorText": "#000"
+      "textureUrl": "assets/images/tornado-darkred.svg",
+      "colorText": "#fff"
     },
     {
       "anho": "1945",
@@ -87,7 +87,7 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": "assets/images/svgbg1.svg",
+      "textureUrl": "assets/images/gradient-purple.svg",
       "colorText": "#000"
     },
     {
@@ -97,8 +97,8 @@
       "desc": "",
       "imageUrl": "https://pbs.twimg.com/media/D8juLfNXoAAOKaQ?format=jpg&name=900x900",
       "tituloImg": "Tomado de: https://twitter.com/PrensaRural/status/1137420794047488001/photo/2",
-      "textureUrl": "assets/images/svgbg1.svg",
-      "colorText": "#000"
+      "textureUrl": "assets/images/inverted-red-triangles.svg",
+      "colorText": "#fff"
     },
     {
       "anho": "1964",
@@ -107,7 +107,7 @@
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
-      "textureUrl": "assets/images/svgbg1.svg",
+      "textureUrl": "assets/images/diamonds-red-yellow.svg",
       "colorText": "#000"
     },
     {
