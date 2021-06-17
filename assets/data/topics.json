@@ -8,13 +8,7 @@
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/General_Jos%C3%A9_Hilario_L%C3%B3pez.jpg",
       "tituloImg": "De Gaspard-Félix Tournachon - Musée d&#039;Orsay, Dominio público, https://commons.wikimedia.org/w/index.php?curid=17892035",
       "textureUrl": "assets/images/svgbg1.svg",
-      "colorText": "#000",
-      "listReferen": [
-        {
-          "ref1": "Tal",
-          "ref2": "Carlos"
-        }
-      ]
+      "colorText": "#000"
     },
     {
       "anho": "1876-1877",
@@ -130,9 +124,9 @@
       "anho": "1990",
       "acontecimiento": "La Séptima Papeleta",
       "resumen": "En el año 1989 el país estaba pasando por una serie de sucesos decisivos para su historia, en donde resaltaba el proceso de paz con el M-19 y sobre todo el narcotráfico y terrorismo traído por los carteles de Cali y Medellín, esto llevó a una serie de propuestas y organizaciones para proponer una serie de cambios a la constitución de 1886, sin embargo en este mismo año Carlos Pizarro, Luis Carlos Galán y Bernardo Jaramillo fueron asesinados por manos del narcotráfico y paramilitarismo, dando paso al auge del terrorismo por parte de los carteles del narcotráfico.",
-      "desc": "",
-      "imageUrl": "",
-      "tituloImg": "",
+      "desc": "En el año 1989 el país estaba pasando por una serie de sucesos decisivos para su historia, en donde resaltaba el proceso de paz con el M-19 y sobre todo el narcotráfico y terrorismo traído por los carteles de Cali y Medellín, esto llevó a una serie de propuestas y organizaciones para proponer una serie de cambios a la constitución de 1886, sin embargo en este mismo año Carlos Pizarro, Luis Carlos Galán y Bernardo Jaramillo fueron asesinados por manos del narcotráfico y paramilitarismo, dando paso al auge del terrorismo por parte de los carteles del narcotráfico, esto llevó en 1990 a una serie de movilizaciones estudiantiles y de juventudes que buscaban principalmente una asamblea nacional constituyente, de esta manera en las votaciones del senado (que tenían originalmente 6 papeletas de votación), se presentó una séptima papeleta, la cual incluía una consulta popular para cambiar la constitución del país, la cual apoyada por el presidente César Gaviria debido a problemas de validez jurídica, cumplió con el margen necesario para realizar el cambio de constitución.",
+      "imageUrl": "http://somoslarevista.com/wp-content/uploads/2011/02/septima-papeleta.jpg",
+      "tituloImg": "Tomado de: http://somoslarevista.com/wp-content/uploads/2011/02/septima-papeleta.jpg",
       "textureUrl": "assets/images/svgbg1.svg",
       "colorText": "#000"
     }

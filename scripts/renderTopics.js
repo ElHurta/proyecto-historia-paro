@@ -12,7 +12,7 @@ function generarCodigoTopic(ahno, acon) {
     `
 }
 
-function generarNewCards(anho, acon, resum, imageUrl, index){
+function generarNewCards(anho, acon, imageUrl){
     return `<div class="card-container">
     <a href="#${anho}">
     <div class="anim">
@@ -40,7 +40,7 @@ function generarCodigoSecc(anho, acon, resum, imageUrl, index, tituloImg, textur
                     ${acon} - ${anho}
                 </h3>
                 <p>
-                    ${resum} <a class="modalTrigg" href="#${anho}">Ver Más</a>
+                    ${resum} <a class="modalTrigg" data-id="${index}" href="#${anho}">Ver Más</a>
                 </p>
             </div>
             <div class="img-container">
@@ -61,7 +61,7 @@ function generarCodigoSecc(anho, acon, resum, imageUrl, index, tituloImg, textur
                 ${acon} - ${anho}
             </h3>
             <p>
-                ${resum} <a class="modalTrigg" href="#${anho}">Ver Más</a>
+                ${resum} <a class="modalTrigg" data-id="${index}" href="#${anho}">Ver Más</a>
             </p>
         </div>
       </div>
@@ -75,7 +75,7 @@ function renderTopics(data) {
         const acon = topics[i].acontecimiento
 
         sec_code += generarCodigoSecc(anho, acon, topics[i].resumen, topics[i].imageUrl, i, topics[i].tituloImg, topics[i].textureUrl, topics[i].colorText)
-        cards_code += generarNewCards(anho, acon, topics[i].resumen, topics[i].imageUrl, i)
+        cards_code += generarNewCards(anho, acon, topics[i].imageUrl)
     }
     
     content.innerHTML = sec_code
