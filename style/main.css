@@ -404,4 +404,42 @@ iframe {
 .inv {
   display: none;
 }
+
+@media (max-width: 1600px) {
+  .desc {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 950px) {
+  .desc {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 700px) {
+  .acon {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .acon .desc {
+    width: 80%;
+  }
+  .acon .img-container {
+    width: 80%;
+  }
+  .acon .img-container img {
+    width: 65%;
+    height: 65%;
+  }
+}
+
+@media (max-width: 450px) {
+  .desc {
+    font-size: 0.7rem;
+  }
+  .img-container p {
+    font-size: 0.3rem;
+  }
+}
 /*# sourceMappingURL=main.css.map */
