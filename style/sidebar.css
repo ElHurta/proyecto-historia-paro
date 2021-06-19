@@ -118,4 +118,14 @@
 .checkbox {
   display: none;
 }
+
+@media (max-width: 1300px) {
+  .checkbox:checked ~ .menu {
+    left: 45%;
+  }
+  .sidebar {
+    width: 45%;
+    left: -50%;
+  }
+}
 /*# sourceMappingURL=sidebar.css.map */

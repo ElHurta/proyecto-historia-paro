@@ -229,7 +229,11 @@ html {
   text-align: center;
 }
 
-.img-container p {
+.img-container .img-title-container {
+  word-wrap: break-word;
+}
+
+.img-container .img-title-container p {
   margin: 0.3em 0em;
   font-size: 1em;
   font-family: "DM Sans";
@@ -418,6 +422,12 @@ iframe {
 }
 
 @media (max-width: 700px) {
+  * {
+    -webkit-transition-property: none !important;
+    transition-property: none !important;
+    -webkit-animation: none !important;
+            animation: none !important;
+  }
   .acon {
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;

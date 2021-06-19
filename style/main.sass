@@ -188,10 +188,15 @@ html
   width: 40%;
   text-align: center;
 
-  p
-    margin: 0.3em 0em;
-    font-size: 1em;
-    font-family: "DM Sans";
+  .img-title-container
+      word-wrap: break-word;
+
+      p
+        margin: 0.3em 0em;
+        font-size: 1em;
+        font-family: "DM Sans";
+
+  
 
   img
     max-width: 70%;
@@ -299,6 +304,9 @@ iframe
     display: none;
 
 
+
+// Responsive Stuff:
+
 @media (max-width: 1600px)
   .desc
     font-size: 1.5rem;
@@ -310,6 +318,12 @@ iframe
     //width: 40%;
 
 @media (max-width: 700px)
+
+  //Quitar animaciones y transciones
+  *
+    transition-property: none !important;
+    animation: none !important;
+
   .acon
     flex-wrap: wrap;
     .desc
