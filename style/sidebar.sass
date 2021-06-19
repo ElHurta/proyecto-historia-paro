@@ -27,7 +27,7 @@
   height: 100vh;
   background: linear-gradient(153deg, rgba(61,17,6,1) 0%, rgba(41,10,3,1) 100%);
   font-size: 0.65em;
-  left: -40%;
+  left: -50%;
   transition: left 0.7s;
   overflow-y: scroll;
   z-index: 2;
@@ -114,11 +114,16 @@
 
 @media (max-width:  1300px)
   .checkbox:checked ~ .menu
-    //transition: left none;
     left: 45%;
   
   .sidebar
-    //transition: left none;
     width: 45%;
-    left: -50%;
+
+@media (max-width:  700px)
+  .checkbox:checked ~ .menu
+    left: 60%;
+  
+  .sidebar
+    width: 60%;
+    left: -60%;
 

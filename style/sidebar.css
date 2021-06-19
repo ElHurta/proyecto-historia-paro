@@ -11,7 +11,7 @@
   height: 100vh;
   background: linear-gradient(153deg, #3d1106 0%, #290a03 100%);
   font-size: 0.65em;
-  left: -40%;
+  left: -50%;
   -webkit-transition: left 0.7s;
   transition: left 0.7s;
   overflow-y: scroll;
@@ -125,7 +125,16 @@
   }
   .sidebar {
     width: 45%;
-    left: -50%;
+  }
+}
+
+@media (max-width: 700px) {
+  .checkbox:checked ~ .menu {
+    left: 60%;
+  }
+  .sidebar {
+    width: 60%;
+    left: -60%;
   }
 }
 /*# sourceMappingURL=sidebar.css.map */

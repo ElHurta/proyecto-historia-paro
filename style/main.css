@@ -411,13 +411,16 @@ iframe {
 
 @media (max-width: 1600px) {
   .desc {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
   }
 }
 
 @media (max-width: 950px) {
   .desc {
-    font-size: 1rem;
+    font-size: 0.9rem;
+  }
+  .acon .img-container .img-title-container p {
+    font-size: 0.6rem;
   }
 }
 
@@ -442,14 +445,17 @@ iframe {
     width: 65%;
     height: 65%;
   }
+  .acon .img-container .img-title-container p {
+    font-size: 0.5rem;
+  }
 }
 
 @media (max-width: 450px) {
   .desc {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
   }
-  .img-container p {
-    font-size: 0.3rem;
+  .acon .img-container .img-title-container p {
+    font-size: 0.6rem;
   }
 }
 /*# sourceMappingURL=main.css.map */
