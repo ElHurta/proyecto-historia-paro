@@ -1,5 +1,5 @@
 const slider = document.querySelector('.new-topics');
-let isDown = false;
+let isDown = true;
 let startX;
 let scrollLeft;
 
@@ -19,6 +19,7 @@ slider.addEventListener('mouseleave', () => {
 
 //Soltar Click
 slider.addEventListener('mouseup', () => {
+  console.log(startX)
   isDown = false;
   slider.classList.remove('active');
 });
@@ -30,5 +31,4 @@ slider.addEventListener('mousemove', (e) => {
   const x = e.pageX - slider.offsetLeft;
   const walk = (x - startX) * 3; //scroll-fast
   slider.scrollLeft = scrollLeft - walk;
-  //console.log(e.pageX);
 });
