@@ -1,7 +1,7 @@
-const slider = document.querySelector('.new-topics');
+/*const slider = document.querySelector('.new-topics');
 let isDown = true;
 let startX;
-let scrollLeft;
+let scrollLeft;*/
 
 //Click
 slider.addEventListener('mousedown', (e) => {

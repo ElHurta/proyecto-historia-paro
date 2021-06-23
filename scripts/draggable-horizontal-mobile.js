@@ -8,7 +8,6 @@ slider.addEventListener('touchstart', (e) => {
   isDown = true;
   slider.classList.add('active');
   startX = e.touches[0].clientX - slider.offsetLeft;
-  console.log(startX)
   scrollLeft = slider.scrollLeft;
 });
 
