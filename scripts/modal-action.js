@@ -38,11 +38,10 @@ window.addEventListener('load', function() {
                 <p>
                     ${desc}
                 </p>
-                <div class="img-container">
-                    <img src="${imageUrl}" alt="Universidad Distrital" width="65%" height="65%"/>
-                 </div>
+                <div class="img-container-modal">
+                    <img src="${imageUrl}" alt="Universidad Distrital" width="40%" height="40%"/>
+                </div>
             </div>
-            
             </div>`
         }
 

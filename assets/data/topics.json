@@ -11,6 +11,17 @@
       "colorText": "#000"
     },
     {
+      "anho": "1875",
+      "acontecimiento": "Motín Del Pan",
+      "resumen": "Debido al alza de los precios del trigo en un 20%, los panaderos se vieron en la necesidad de protestar, negándose a vender pan de ¼ y a dar vendaje con la compra del alimento. El 23 de enero se reunieron en la Plaza de Bolívar, alrededor de 1.500 personas, proporción numerosa si se considera que en Bogotá vivían alrededor de 50.000 personas en esa época.",
+      "desc": "Desde el día 18 de enero los panaderos decidieron no solo no producir el “pan de a cuarto”, consumido especialmente por la población de menos recursos económicos de Bogotá, sino subir el precio en 20% y dejar de dar vendaje en la compra de pan, con el argumento del alza en el precio de la harina de trigo. Debido a esto empezaron a aparecer carteles en contra de los panaderos, los cuales, temiendo por su seguridad, se defendían diciendo que las alzas se debían a los monopolios de trigo, carne, cacao y arroz entre otros. Particularmente en la ciudad solo existían tres molinos encargados de trillar el trigo que especulaban con los precios de su servicio. El 23 de enero se reunieron en la Plaza de Bolívar, alrededor de 1.500 personas, proporción numerosa si se considera que en Bogotá vivían alrededor de 50.000 personas en esa época. La multitud decidió enviar tres representantes a hablar con el presidente Santiago Pérez (de filiación liberal) quien argumentó que, de acuerdo con la constitución Nacional, eran los panaderos quienes decidían el precio de manera autónoma y que no estaba entre sus atribuciones tomar decisiones al respecto. Esta postura enardeció los ánimos de los manifestantes quienes, distribuidos en grupos, atacaron las panaderías, las casas de personas propietarias de estos negocios e instalaciones de molinos que encontraron a su paso (No se protestaba contra el alza del pan sino contra la política económica que permitía a los panaderos encarecer su producto sin que el gobierno pudiese intervenir al respecto). La autoridad local se declaró impotente para contener a la multitud hasta que hacia la media noche el alcalde Peregrino Santacoloma se ofreció a intermediar logrando dispersar las manifestaciones. El día 24 de enero, el prefecto de Bogotá Rafael Pérez. decretó, con base en el código de policía, la prohibición de que más de 10 personas se reunieran so pena de ser encarcelados, igualmente se abrió investigación al alcalde por no intervenir en los hechos y al encontrarlo culpable, fue obligado a renunciar. Ese mismo día, el gobernador Eustorgio Salgar puso a órdenes del prefecto, la fuerza pública de Cundinamarca. Los artesanos por su parte, hicieron saber, a través de comunicado a los periódicos locales, que ellos no habían participado en los hechos ocurridos el 23 de enero rechazando los desórdenes y que se hubiese involucrado su gremio como parte de la protesta. El 25 de enero se hizo efectiva la renuncia del alcalde y se nombró como remplazo a Octavio Salazar quien se comprometió a preservar el orden en la ciudad.",
+      "imageUrl": "assets/images/motinPan.gif",
+      "tituloImg": "",
+      "textureUrl": "assets/images/wavesRed.svg",
+      "colorText": "#fff"
+      
+    },
+    {
       "anho": "1876-1877",
       "acontecimiento": "Guerra De Las Escuelas",
       "resumen": "En respuesta a las reformas liberales que atacaron a la educación impuesta por la iglesia, el partido conservador no permitió que se llevará a cabo este cambio en el modelo educativo lo cual desembocó en otro conflicto entre estos dos partidos. Al final de este conflicto se mostró una predilección por las enseñanzas de la iglesia por encima del modelo laico por parte de la población colombiana.",
@@ -21,20 +32,10 @@
       "colorText": "#fff"
     },
     {
-      "anho": "1875",
-      "acontecimiento": "Motín Del Pan",
-      "resumen": "Debido al alza de los precios del trigo en un 20%, los panaderos se vieron en la necesidad de protestar, negándose a vender pan de ¼ y a dar vendaje con la compra del alimento. El 23 de enero se reunieron en la Plaza de Bolívar, alrededor de 1.500 personas, proporción numerosa si se considera que en Bogotá vivían alrededor de 50.000 personas en esa época.",
-      "desc": "",
-      "imageUrl": "assets/images/motinPan.gif",
-      "tituloImg": "",
-      "textureUrl": "assets/images/wavesRed.svg",
-      "colorText": "#fff"
-    },
-    {
       "anho": "1893",
       "acontecimiento": "Motín De Los Artesanos",
       "resumen": "En 1892 José Ignacio Gutiérrez redactó 5 artículos para el periódico Colombia Cristiana, bajo el título de “Mendicidad” en los cuales describía peyorativamente a la clase menos favorecida de Bogotá (la mayoría artesanos), lo que incitó una serie de manifestaciones en contra de estas publicaciones. Lo que empujó a las autoridades a usar la fuerza policial de manera desmedida, desembocando en una gran cantidad de muertes tanto de las fuerzas militares como de los artesanos",
-      "desc": "",
+      "desc": "Antecedentes: A partir de 1886 se buscó limitar la democracia representativa y mantener el control sobre la sociedad civil, para ello, el estado se apoyó en la iglesia transfiriéndole responsabilidades como la supervisión de la educación pública, el control de la población y del estado civil por medio de las partidas de bautismo, etc. Por su parte, los salarios de los trabajadores, especialmente de los artesanos eran muy bajos y no alcanzaban para cubrir las necesidades básicas. El 14 de diciembre de 1892 José Ignacio Gutiérrez Isaza publicó en el periódico Colombia Cristiana el primero de varios artículos titulados Mendicidad y el último de los cuales (la parte IV y V ) fue publicado el 4 de enero de 1893. En ellos planteaba la miseria de los sectores menos favorecidos de Bogotá entre ellos los obreros y los artesanos, llamándoles mendigos y haciéndoles críticas bastante fuertes sobre su comportamiento, afirmando que eran mendigos, mediocres y ladrones entre muchas otras cosas y haciendo propuestas de reestructuración y cambio, que iban en contra de la dignidad de estos trabajadores, los tachaba de incumplidos, embusteros y ponía en tela de juicio su honradez llamándolos rateros. Estas publicaciones causaron gran conmoción, indignación y quejas por parte de la sociedad Bogotana, especialmente por parte de los artesanos quienes también se pronunciaron indignados por su precaria situación y rechazaron las afirmaciones de Gutiérrez Isaza. Dicha indignación se transformó en ataques a su casa, a la del Ministro de Gobierno y a la del alcalde Higinio Cualla el día 15 de enero. El alcalde dio la orden de movilizar a la policía quienes ante los desmanes dispararon causando varios muertos y heridos. Los manifestantes respondieron con barricadas desde donde usaban hondas con piedras y fusiles y posteriormente se tomaron las instalaciones de la comisaría y la dirección de policía nacional, ante lo cual el director encargado Marcelino Gilibert dio la orden de disparar produciendo varios muertos, el caos y los enfrentamientos produjeron muertos y heridos en ambos bandos, sin embargo, hacia las 11 pm todo quedó en calma, las calles se despejaron. El 16 de enero otro grupo de artesanos ataca nuevamente la casa de Gómez Isaza y el gobierno militariza la ciudad con orden de disparar, lo cual deja al final del día varios muertos y heridos lo que enardeció aún más los ánimos de los manifestantes quienes también atacaron con machetes y piedras y saquearon oficinas como la central telefónica y la dirección general de la policía y varias comisarías. Los disturbios fueron en aumento hasta que en la tarde llegó el batallón de artillería a contener el motín con la orden de disparar a discreción. Finalmente, el 21 de enero el ejercito y la policía lograron el control de la ciudad, aplicando el decreto de estado de sitio, con un saldo de 60 muertos y muchos heridos y se ordenan represalias para quienes apoyaron las protestas y amotinamientos y la detención con cárcel en San Andrés para algunos de los líderes.",
       "imageUrl": "https://loscomunescolectivoanarquista.files.wordpress.com/2016/05/insurrecion-01.jpg?w=620",
       "tituloImg": "Tomado de: https://loscomunescolectivoanarquista.files.wordpress.com/2016/05/insurrecion-01.jpg?w=620",
       "textureUrl": "assets/images/simpleShiny.svg",
@@ -63,7 +64,7 @@
     {
       "anho": "1929",
       "acontecimiento": "Masacre De Las Bananeras",
-      "resumen": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "resumen": "En junio de 1929 se llevó a cabo una gran manifestación en Bogotá que tuvo extensiones a lo largo del país, la cual inicialmente motivada por el dolor nacional que causó la denuncia y popularización de la masacre en las bananeras, dicha protesta con su avance iba tras el objetivo de acabar con la “rosca” en Bogotá, serie de eventos que iniciaron con la alcaldía de Arturo Vargas Cortez el cual popularizó asignar cargos públicos teniendo en cuenta únicamente favores políticos, cosa que llevó a una enorme corrupción.",
       "desc": "",
       "imageUrl": "",
       "tituloImg": "",
