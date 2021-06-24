@@ -5,7 +5,7 @@
   text-align: center;
   overflow-y: auto;
   height: 80%;
-  padding: 0em 1.5em;
+  padding: 0em 2em;
 }
 
 .text-container p {
@@ -42,7 +42,7 @@
 }
 
 .closeModalBtn {
-  color: #ccc;
+  color: #8b8b8b;
   float: right;
   font-size: 30px;
 }
@@ -51,5 +51,20 @@
   color: #000;
   text-decoration: none;
   cursor: pointer;
+}
+
+@media (max-width: 450px) {
+  .text-container {
+    font-size: 1.1em;
+    padding: 0em 0.5em;
+    height: 70%;
+  }
+  .modal-content {
+    height: 85%;
+    padding: 20px 22px;
+  }
+  .modal-content h3 {
+    padding-bottom: 0;
+  }
 }
 /*# sourceMappingURL=modal-style.css.map */

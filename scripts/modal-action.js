@@ -35,7 +35,7 @@ window.addEventListener('load', function() {
             <span id="closeModalBtn" class="closeModalBtn">&times;</span>
             <h3>${acon}</h3>
             <div class="text-container">
-                <p>
+                <p style="white-space: pre-line;">
                     ${desc}
                 </p>
                 <div class="img-container-modal">

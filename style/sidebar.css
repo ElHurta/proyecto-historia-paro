@@ -137,4 +137,14 @@
     left: -60%;
   }
 }
+
+@media (max-width: 450px) {
+  .checkbox:checked ~ .menu {
+    left: 100%;
+  }
+  .sidebar {
+    width: 100%;
+    left: -100%;
+  }
+}
 /*# sourceMappingURL=sidebar.css.map */
